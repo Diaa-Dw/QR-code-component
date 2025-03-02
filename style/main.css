@@ -40,13 +40,16 @@ body {
 
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
 
   max-width: 31.5rem;
   padding: 2rem;
   border-radius: 2rem;
   text-align: center;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.qr__card > * {
+  margin-bottom: 2rem;
 }
 
 .qr__card-img {
