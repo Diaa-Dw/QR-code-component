@@ -42,8 +42,8 @@ body {
   flex-direction: column;
 
   max-width: 31.5rem;
-  padding: 2rem;
-  border-radius: 2rem;
+  padding: 1.8rem;
+  border-radius: 1rem;
   text-align: center;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
